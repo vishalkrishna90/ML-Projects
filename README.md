@@ -1,2 +1,2 @@
-# End-To-End-Projects
-Ml End To End Projects
+# ML Projects
+Ml Projects
